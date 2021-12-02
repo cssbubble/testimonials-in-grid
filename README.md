@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here]()
+- Solution URL: [here](https://www.frontendmentor.io/solutions/responsive-grid-layout-for-testimonial-page-y94Gv90wY)
 - Live Site URL: [here](https://cssbubble.github.io/testimonials-in-grid/)
 
 ## My process
