@@ -26,6 +26,7 @@ Users should be able to:
 - View the optimal layout for the site depending on their device's screen size
 
 ### Screenshot
+<img width="528" alt="testimonial-mobil" src="https://user-images.githubusercontent.com/1849689/144367122-1e67d3e0-e8b2-44b0-af4f-f2063d45da6e.png">
 
 
 ### Links
